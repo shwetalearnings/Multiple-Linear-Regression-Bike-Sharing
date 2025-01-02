@@ -212,7 +212,7 @@ For further information or queries regarding this project, please reach out:
 
 - **Author**: Shweta Soni
 - **Email**: shweta.soni.1@outlook.com
-- **GitHub**: [https://github.com/yourusername](https://github.com/shwetalearnings)
+- **GitHub**: [https://github.com/shwetalearnings](https://github.com/shwetalearnings)
 
 Feel free to connect or share your feedback!
 
