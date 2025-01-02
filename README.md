@@ -111,7 +111,6 @@ Refined the model by iteratively adding or removing predictors based on statisti
 ### Key Observations from Data Analysis:
 1. **Pair Plot Findings**:
    - A strong positive correlation exists between `temp` and `count`.
-   - Similarly, `atemp` and `count` exhibit a strong positive correlation, making them suitable predictors for multiple linear regression.
 
 2. **Collinearity**:
    - High correlation between `temp` and `atemp` was identified, which could impact model performance due to multicollinearity.
@@ -188,12 +187,32 @@ This project would not have been possible without the following contributions:
 
 ---
 
+## License 
+Use of this dataset in publications must be cited to the following publication:
+
+[1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
+
+@article{
+	year={2013},
+	issn={2192-6352},
+	journal={Progress in Artificial Intelligence},
+	doi={10.1007/s13748-013-0040-3},
+	title={Event labeling combining ensemble detectors and background knowledge},
+	url={http://dx.doi.org/10.1007/s13748-013-0040-3},
+	publisher={Springer Berlin Heidelberg},
+	keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},
+	author={Fanaee-T, Hadi and Gama, Joao},
+	pages={1-15}
+}
+
+
+
 ## Contact
 For further information or queries regarding this project, please reach out:
 
 - **Author**: Shweta Soni
 - **Email**: shweta.soni.1@outlook.com
-- **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
+- **GitHub**: [https://github.com/yourusername](https://github.com/shwetasoni
 
 Feel free to connect or share your feedback!
 
